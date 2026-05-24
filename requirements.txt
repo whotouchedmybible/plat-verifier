@@ -1,3 +1,7 @@
 streamlit
 ezdxf
 pandas
+matplotlib
+anthropic
+pypdf
+python-docx
