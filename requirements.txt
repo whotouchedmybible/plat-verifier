@@ -2,6 +2,8 @@ streamlit
 ezdxf
 pandas
 matplotlib
-anthropic
 pypdf
 python-docx
+pytesseract
+pdf2image
+pillow
